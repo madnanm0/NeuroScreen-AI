@@ -3,7 +3,7 @@
 **NeuroScreen AI** is an interactive mental health tool designed for early screening of **depression** and **cognitive decline**. Built as part of **NeuraVia Hacks 2025**, the tool aims to help users self-assess symptoms using simple and research-backed questions.
 
 ## 🚀 Live Demo
-👉 [Launch the App](https://f38ae1c8ca87.ngrok-free.app)
+👉 [Launch the App](https://neuroscreen-ai.streamlit.app/)
 
 ## 🧩 Features
 - 📄 PHQ-9-based depression screening (subset of 5 items)
